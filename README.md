@@ -1,7 +1,15 @@
+Released as open source by NCC Group Plc - https://www.nccgroup.com/
+
+Developed by Chris Nevin, chris.nevin@nccgroup.com
+
+https://www.github.com/nccgroup/carnivore
+
+Released under the AGPL license https://www.github.com/nccgroup/carnivore/license
+
 Carnivore - V.1.0.4
 Microsoft External Assessment Tool
 
-Overview
+Overview: 
 Carnivore is an assessment tool for Skype for Business, Exchange, ADFS, and RDWeb servers as well as some O365 functionality. Carnivore includes some new post-authentication Skype for Business functionality.
 
 In general the tabs will unlock in-line with what functionality you can use. Ie - the post auth options will unlock after you have discovered valid credentials.

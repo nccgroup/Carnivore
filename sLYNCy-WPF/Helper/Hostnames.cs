@@ -1,4 +1,12 @@
-﻿using System.Collections.Generic;
+﻿//Released as open source by NCC Group Plc - https://www.nccgroup.com/
+
+//Developed by Chris Nevin, chris.nevin@nccgroup.com
+
+//https://www.github.com/nccgroup/carnivore
+
+//Released under the AGPL license https://www.github.com/nccgroup/carnivore/license
+
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.Net;
 using static sLYNCy_WPF.Enums;

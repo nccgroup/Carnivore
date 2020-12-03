@@ -1,4 +1,12 @@
-﻿namespace sLYNCy_WPF
+﻿//Released as open source by NCC Group Plc - https://www.nccgroup.com/
+
+//Developed by Chris Nevin, chris.nevin@nccgroup.com
+
+//https://www.github.com/nccgroup/carnivore
+
+//Released under the AGPL license https://www.github.com/nccgroup/carnivore/license
+
+namespace sLYNCy_WPF
 {
     public class Enums
     {
