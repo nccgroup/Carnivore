@@ -4,7 +4,7 @@
 
 //https://www.github.com/nccgroup/carnivore
 
-//Released under the AGPL license https://www.github.com/nccgroup/carnivore/license
+//Released under the AGPL license https://github.com/nccgroup/Carnivore/blob/master/license
 
 using System.Net;
 using static sLYNCy_WPF.Enums;
